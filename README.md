@@ -5,7 +5,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /><br />
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=adazia)]
+
 <br />
 <a href="https://github.com/abdodiaz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdodiaz&layout=compact&theme=synthwave" alt="Abdelbarre's most used languages" />
