@@ -14,7 +14,7 @@
   <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=abdodiaz&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="Abdelbarre's Stats" />
 </a>
 
-
+<!--
 **abdodiaz/abdodiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
