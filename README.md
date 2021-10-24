@@ -15,17 +15,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdodiaz&line_height=40&show_icons=true&theme=dark" alt="Abdelbarre's Stats"  style="max-width: 100%;" />
 </a>
 
-<!--
-**abdodiaz/abdodiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and tools***:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+</p aligne = "left">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" width="100"></code>   
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="100"></code>
+</p>
+
+---
