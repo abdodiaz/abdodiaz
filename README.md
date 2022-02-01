@@ -4,7 +4,7 @@
 </a>
 <br><br>
 <h2>STUDENT AT</h2>
-<h1 align="center"><a href="youcode.ma"><img align="center" src="https://simplon.co/storage/36009/logo-youcode-ma.png" width="300" height="75"></a>
+<h1 align="center"><a href="www.youcode.ma"><img align="center" src="https://simplon.co/storage/36009/logo-youcode-ma.png" width="300" height="75"></a>
 <img align="center" src="https://simplon.co/images/logo.svg" style="max-width: 100%;" width="300" height="75"></h1>
 <br />
 <h2><a id="user-content-computer-statistics-" class="anchor" aria-hidden="true" href="#computer-statistics-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> STATISTICS :</h2>
