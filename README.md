@@ -30,6 +30,6 @@
 ---
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abdodiaz&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abdodiaz&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="abdodiaz monthly coding activity" />
 </a>
 </p>
